@@ -12,3 +12,5 @@ Can take negative and positive rotations.
 Is all contained within one single function.
 
 Mustn't exceed 50 lines of code.
+
+This challenge was completed
