@@ -1,4 +1,4 @@
-#December 25 Coding Challenge
+# December 25 Coding Challenge
 This is a script that rotates the characters in a string by a certain number. For example:
 
 Input: "Hello World!"
